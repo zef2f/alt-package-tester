@@ -1,0 +1,13 @@
+rpm-build
+gear
+hasher
+vim-X11
+nano
+mc
+less
+patch
+gnuplot
+man
+bash
+zsh
+fish
